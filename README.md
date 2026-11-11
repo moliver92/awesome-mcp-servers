@@ -285,6 +285,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Xero](https://github.com/XeroAPI/xero-mcp-server)** - Interact with the accounting data in your business using our official MCP server
 - **[XRAY](https://github.com/srijanshukla18/xray)** - Progressive code-intelligence server: lets AI assistants map structure, fuzzy-find symbols, and assess change-impact across Python, JS/TS, and Go codebases (powered by `ast-grep`)
 - **[YepCode](https://github.com/yepcode/mcp-server-js)** - Execute any LLM-generated code in the [YepCode](https://yepcode.io) secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- **[ZAP-Hosting](https://zap-hosting.com/en/mcp)** - Manage your ZAP-Hosting game servers, VPS and TeamSpeak servers from Claude, ChatGPT, Cursor or Gemini: status, console and logs, config files, backups and plan changes. Hosted remote server with OAuth login.
 - **[Zapier](https://zapier.com/mcp)** - Connect your AI Agents to 8,000 apps instantly.
 - **[Zenable](https://docs.zenable.io/integrations/mcp/getting-started)** - Clean up sloppy AI code and prevent vulnerabilities
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
